@@ -32,13 +32,9 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
 - 💬 Ask me about **Laravel, React, React Native, Flutter, Nodejs, MongoDB, MySQL**
 
 - 📫 Feel free to reach me out **arnoldhenry958@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
 
 
